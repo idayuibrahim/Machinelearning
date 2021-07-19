@@ -24,9 +24,9 @@ st.sidebar.write("""
 This is a web app demo using python libraries such as Streamlit, Sklearn etc
 """)
 
-st.sidebar.write ("For more info, please contact:")
+#st.sidebar.write ("For more info, please contact:")
 
-st.sidebar.write("<a href='https://www.linkedin.com/in/yong-poh-yu/'>Dr. Yong Poh Yu </a>", unsafe_allow_html=True)
+#st.sidebar.write("<a href='https://www.linkedin.com/in/yong-poh-yu/'>Dr. Yong Poh Yu </a>", unsafe_allow_html=True)
 
 
 choice = st.sidebar.radio(
